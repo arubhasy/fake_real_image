@@ -4,10 +4,10 @@ Real and AI-Generated Synthetic Image Classification is a Python library for det
 
 ## Installation
 
-Use the package manager [pip](pip install -r requirements.txt) to install.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install.
 
 ```bash
-pip install foobar
+pip install -r requirements.txt
 ```
 
 ## Usage
